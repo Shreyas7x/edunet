@@ -1,4 +1,3 @@
-streamlit
 tensorflow
 pillow
 plotly
@@ -7,3 +6,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
+streamlit
+torch
+torchvision
