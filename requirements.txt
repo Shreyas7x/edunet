@@ -11,3 +11,4 @@ streamlit
 torch
 torchvision
 requests
+gdown
