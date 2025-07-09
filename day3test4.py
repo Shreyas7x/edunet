@@ -9,7 +9,7 @@ import os
 # Download model from Google Drive using gdown
 @st.cache_resource
 def load_model_from_drive():
-    url = "https://drive.google.com/uc?id=16LjFwzLXKLey7p_zuC4-ZLDmFpUuckT3"
+    url = "https://drive.google.com/uc?export=download&id=1p9pqC-Ba4aKdNcQploHjnaCVip5J07qe"
     output_path = "Modelenv.v1.h5"
     if not os.path.exists(output_path):
         gdown.download(url, output_path, quiet=False)
