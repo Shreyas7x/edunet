@@ -1,4 +1,4 @@
-tensorflow==2.13.0
+tensorflow
 pillow
 plotly
 seaborn
@@ -6,6 +6,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-streamlit==1.28.1
+streamlit
 torch
 torchvision
