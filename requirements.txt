@@ -1,6 +1,7 @@
 tensorflow
 pillow
 plotly
+Pillow
 seaborn
 pandas
 numpy
